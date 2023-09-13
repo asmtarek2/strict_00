@@ -56,6 +56,11 @@ margin-left: 30px;
 
 color: black;
 }
+
+nav ul li a:hover{
+    color: #15a4fa;
+}
+
 /* header part ends  */
 /* banner part starts  */
 .banner{
@@ -634,7 +639,7 @@ color: #fff;
 .social_icon ul li:hover{
     background-color: #fff;
     border: 1px solid #3d9dff;
-    transition: .4s;
+    transition: .3s;
  
 
 }
